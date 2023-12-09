@@ -2,7 +2,7 @@ import keyBy from 'lodash/keyBy';
 import { SelectColumnRenderer } from './renderer';
 import { SelectConfig } from './type';
 import { SelectColumnEditor } from './editor';
-import * as loader from '@revolist/revo-dropdown/loader';
+import * as loader from 'revo-dropdown/loader';
 
 
 export default class SelectColumnType {

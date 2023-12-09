@@ -55,6 +55,6 @@
     "@revolist/revogrid": "latest"
   },
   "dependencies": {
-    "@revolist/revo-dropdown": "^2.0.0"
+    "revo-dropdown": "git+https://github.com/zainudinsainal/revodropdown.git"
   }
 }
